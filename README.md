@@ -6,12 +6,15 @@ Using bash scripting,
 represent different classes. There should be multiple directories within a
 class directory which represent marks of the students, notices, and
 attendances.
+
 • Set user permissions in such a way that students and the class teacher of
 a class do not have access to another class directory. Root has
 permissions to every path and should be able to send notice to every
 class.
+
 • Class teacher has the access to write into the class directory and to set
 necessary permissions.
+
 • A notice in the notice directory must have view access only to the
 students of the class and not the edit access. Similarly, a mark sheet of a
 student can be viewed only by that student and not others. You may add

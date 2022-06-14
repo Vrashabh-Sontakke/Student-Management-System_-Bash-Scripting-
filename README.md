@@ -1,7 +1,9 @@
 # Student-Management-System_-Bash-Scripting-
+
 You are a Systen Admin who has to create a school classroom system in the Linux Operating System. There are three types of users: root, teachers and students. Only the root (Admin) user can add users to the system.
 
 Using bash scripting,
+
 • Create a directory structure where there are multiple directories which
 represent different classes. There should be multiple directories within a
 class directory which represent marks of the students, notices, and
